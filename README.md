@@ -11,7 +11,7 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 - Tools: Git, Docker, Jenkins
 
 ## Projects
-- [demo-repo](https://github.com/premptl2204/demo-repo) : Demo project for GitHub
+
 
 ## Get in Touch
 - [LinkedIn](https://linkedin.com/in/prem-patel-50a59b27a/)
